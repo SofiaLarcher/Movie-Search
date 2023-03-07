@@ -1,0 +1,43 @@
+
+
+
+body {
+    background-color: #483D8B;
+    color: #D3D3D3;
+    padding: 15px;
+    font-family:'Open Sans', sans-serif;
+    ;
+    text-align: left;
+}
+.main-container{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    color: #D3D3D3;
+    padding: 15px;
+    font-family:'Open Sans', sans-serif;
+    text-align: center;
+}
+.titulodofilme{
+    flex-direction: column;
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    font-size: 15px;
+
+}
+.informacoes{
+    flex-direction: column;
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 20px ;
+}
+
+.container img { 
+    max-width: 100px; 
+    max-height:180px;
+    align-self: right;
+    margin-bottom: 30px;
+}
