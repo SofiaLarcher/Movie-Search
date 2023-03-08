@@ -5,7 +5,7 @@ por Sofia Larcher
    
         * foram usadas as tecnologias: Node.js, JavaScript, Visual Studio Code, biblioteca Axios e a API OMDb
         * obs: é necessária a instalação do NodeJS
-        * #como executar o "Search Movie" :
+        #como executar o "Search Movie" :
         
             1º passo clone o repositório: https://github.com/SofiaLarcher/Movie-Search
             
